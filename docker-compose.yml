@@ -1,0 +1,12 @@
+version: '3'
+services:
+  my-jupyter-container:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/notebook
+    ports:
+      - "8888:8888"
+    container_name: "my-jupyter-container"
+
