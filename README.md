@@ -15,10 +15,8 @@ Ce fichier contient les instructions pour configurer et lancer le conteneur Dock
 Utilisez la commande docker-compose up pour lancer le conteneur.
 
 ## Utilisation :
-
-- Utilisez la commande ***docker-compose up*** pour lancer le conteneur.
+- Clonez (ou téléchargez) l'ensemble des fichiers.
+- Naviguez jusqu'au répertoire où vous avez stocké les fichiers et lancez la commande ***docker-compose up*** pour lancer le conteneur.
 - Ouvrez votre navigateur web et allez à l'adresse spécifiée par le terminal pour accéder au notebook Jupyter.
-- Utilisez les données contenues dans le fichier "Test_Clusters_Distincts.txt" pour effectuer des analyses et des visualisations dans le notebook Jupyter.
-
 
 
