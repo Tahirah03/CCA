@@ -8,7 +8,7 @@ Ce fichier est un notebook Jupyter qui utilise les données contenues dans le fi
 Ce fichier contient les données utilisées dans le notebook Jupyter. 
 
 #### Fichier "Dockerfile"
-Ce fichier contient les instructions pour construire une image Docker à partir de laquelle un conteneur sera lancé pour exécuter le notebook Jupyter. Il définit les dépendances logicielles nécessaires pour exécuter le notebook.
+Ce fichier contient les instructions pour construire une image Docker à partir de laquelle un conteneur sera lancé pour exécuter le notebook Jupyter. Il définit les dépendances nécessaires pour exécuter le notebook.
 
 #### Fichier "docker-compose.yml"
 Ce fichier contient les instructions pour configurer et lancer le conteneur Docker. Il définit le nom du conteneur, les ports exposés, les volumes montés, etc. 
